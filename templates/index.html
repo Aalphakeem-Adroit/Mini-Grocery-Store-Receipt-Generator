@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Store Receipt Form</title>
+    <link rel="shortcut icon" href="/static/media/shopping_icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <main>
+        <section class="branding">
+            <img src="/static/media/grocery-logo.png" alt="Alpha Grocery Store Logo">
+            <h1>Alpha Grocery Store</h1>
+        </section>
+
+        <section class="form-section">
+            <h2>Fill in the details below to generate a receipt:</h2>
+
+            <form action="/submit" method="POST" id="receipt-form">
+                <label>Name: <input type="text" name="name" required></label><br>
+                <label>Items: <input type="text" name="items" required></label><br>
+                <label>Price: <input type="text" name="price" required></label><br>
+                <label>Payment Method:
+                    <select name="payment">
+                        <option>Cash</option>
+                        <option>Transfer</option>
+                    </select>
+                </label><br>
+                <label>Phone: <input type="text" name="phone"></label><br>
+                <label>Remarks: <input type="text" name="remarks"></label><br>
+                    
+                <button type="submit" onclick="">Save & Print</button>
+            </form>
+        </section>
+    </main>
+
+
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
