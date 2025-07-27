@@ -160,7 +160,6 @@ form button:hover {
 @media (max-width: 480px) {
     main {
         width: 100vw;
-        height: 100vh;
         border-radius: 0;
     }
 
