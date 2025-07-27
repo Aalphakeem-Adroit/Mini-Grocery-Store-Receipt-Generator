@@ -160,15 +160,16 @@ form button:hover {
 @media (max-width: 480px) {
     main {
         width: 100vw;
+        height: 100%;
         border-radius: 0;
     }
 
     .branding {
         border-radius: 0;
-        height: 40%;
+        height: 100%;        
     }
 
     .form-section {
-
+        height: 100%;
     }
 }
