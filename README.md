@@ -214,9 +214,9 @@ MIT License. Free to use, modify, and distribute.
 ## 👨‍💻 Author
 
 **Busari Abdulhakeem Tunde (Alphakeem Adroit)**
-📧 \[alphakeem12@gmail.com]
-🔗 \[https://www.https://www.linkedin.com/in/akeem-tunde-busari/]
-🌍 \[https://www.github.com/Aalphakeem-Adroit/]
+📧 [Email](alphakeem12@gmail.com)
+🔗 [LinkedIn](https://www.https://www.linkedin.com/in/akeem-tunde-busari/)
+🌍 [GitHub](https://www.github.com/Aalphakeem-Adroit/)
 
 ---
 
