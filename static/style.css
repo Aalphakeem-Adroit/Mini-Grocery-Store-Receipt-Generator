@@ -67,7 +67,7 @@ main {
 }
 
 .branding > img {
-    width: 100px;
+    width: 90px;
     margin-bottom: 15px;
 }
 
@@ -166,7 +166,7 @@ form button:hover {
 
     .branding {
         border-radius: 0;
-        height: 40%;        
+        height: 30%;        
     }
 
     .form-section {
