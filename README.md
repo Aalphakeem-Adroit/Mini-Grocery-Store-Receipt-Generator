@@ -1,4 +1,3 @@
-```markdown
 # 🧾 Store Receipt Printing App
 
 A lightweight, offline-capable desktop web application built with **Flask** that lets you collect customer purchase data, generate clean PDF receipts using **ReportLab**, and send them to a **thermal printer or any default system printer**.
