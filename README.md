@@ -77,8 +77,8 @@ receipt\_app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/receipt-printing-app.git
-cd receipt-printing-app
+git clone https://github.com/Aalphakeem-Adroit/Mini-Grocery-Store-Receipt-Generator/tree/main
+cd Mini-Grocery-Store-Receipt-Generator
 ````
 
 ### 2. Create a Virtual Environment
